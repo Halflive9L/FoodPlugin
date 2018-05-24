@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ReceiveFood:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestPlugin_jar</output-path>
+    <root id="archive" name="ReceiveFood.jar">
+      <element id="module-output" name="ReceiveFood" />
+    </root>
+  </artifact>
+</component>

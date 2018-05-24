@@ -1,0 +1,13 @@
+name: ReceiveFood
+description: Receivefood from a pressure plate
+author: Albus
+version: 1.0
+main: me.albus.receivefoodplugin.receivefood.Main
+
+commands:
+  info:
+    description: Info about the plugin
+    usage: /info
+  fly:
+    description: Makes you fly
+    usage: /fly
